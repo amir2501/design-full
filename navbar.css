@@ -26,12 +26,14 @@ nav {
   z-index: 10;
   padding: 1rem 0rem;
 }
+
 header ul {
   margin-left: auto;
   padding: 0;
   display: flex;
   list-style: none;
 }
+
 header ul li a {
   text-align: center;
   padding: 1rem 20px;
