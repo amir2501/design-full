@@ -100,11 +100,9 @@ main ul li:hover img {
   main ul li {
     padding: 2rem 0px;
   }
-  
   main ul li span {
     left: 30%;
   }
-  
   main ul {
     flex-direction: column;
   }
